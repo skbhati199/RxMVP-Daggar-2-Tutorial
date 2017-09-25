@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RxMVP Daggar 2 Tutorial</string>
+    <string name="last_pushed">Last Pushed %s</string>
+</resources>
